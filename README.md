@@ -1,6 +1,13 @@
 # Shared Pixel Grid
 
+[**Live Demo**](https://shared-grid.vercel.app/)
+
 A real-time, multi-user shared grid application.
+
+## 🚀 Deployment Info
+- **Frontend**: Hosted on **Vercel** ([Link](https://shared-grid.vercel.app/))
+- **Backend**: Hosted on **Render**
+- **Database**: **MongoDB Atlas**
 
 ## Features
 - **Real-time Updates**: Powered by Socket.IO for instant visibility of block claims.
